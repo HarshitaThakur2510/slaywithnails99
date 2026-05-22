@@ -7,7 +7,7 @@ import { toast } from 'sonner';
 import { Lock } from 'lucide-react';
 import { useState } from 'react';
 import { API_BASE } from '@/lib/config';
-import PaypalButton from "../components/PayPalButton";
+import PaypalButton from "../components/PaypalButton";
 
 export default function Checkout() {
 
